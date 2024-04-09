@@ -34,4 +34,4 @@ CAM이란 CNN이 입력으로 들어온 이미지를 분류할 때 "어떤 부�
 <br /><br /> 
 ## Result
 
-!<img src="fire_activation.image.png", height="100x", width="100px">​   
+<img src="fire_activation.image.png", height="100x", width="100px">​   
