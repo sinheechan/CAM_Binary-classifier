@@ -29,9 +29,6 @@ CAM이란 CNN이 입력으로 들어온 이미지를 분류할 때 "어떤 부�
 - keras_ModelCheckpoint
 
 <br /><br /> 
-## Version
-
-<br /><br /> 
 ## Result
 <img src="image/Car_Activation.image.png">
 <br /><br /> 
