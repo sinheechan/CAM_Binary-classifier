@@ -1,5 +1,7 @@
 # CAM_Find-a-Car-Park
 https://wikidocs.net/135874
+
+<br /><br /> 
 ## Object
 
 CAM이란 CNN이 입력으로 들어온 이미지를 분류할 때 "어떤 부분을 보고" 예측을 했는지를 알려주는 역할을 합니다.
@@ -10,16 +12,24 @@ CAM이란 CNN이 입력으로 들어온 이미지를 분류할 때 "어떤 부�
 
 본 과정에서는 이미지 분류를 시행하는 모델의 동작을 구현하는 것을 목적으로 합니다.
 
+<br /><br /> 
 ## Dataset
 
 - find-a-car-park - https://www.kaggle.com/datasets/daggysheep/find-a-car-park
+- Fire_dataset : https://www.kaggle.com/datasets/phylake1337/fire-dataset
 
+<br /><br /> 
 ## Libraries used
 
+- numpy
+- keras_ImageDataGenerator
+- keras_MobileNetV2
+- keras_layers_GlobalAveragePooling2D
+- keras_ModelCheckpoint
 
-## File explanation
-
-
+<br /><br /> 
 ## Version
 
+<br /><br /> 
 ## Result
+
