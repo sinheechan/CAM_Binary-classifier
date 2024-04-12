@@ -27,6 +27,7 @@ CAM이란 CNN이 입력으로 들어온 이미지를 분류할 때 "어떤 부�
 - keras_MobileNetV2
 - keras_layers_GlobalAveragePooling2D
 - keras_ModelCheckpoint
+- FastAI
 
 <br /><br /> 
 ## Result
