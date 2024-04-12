@@ -1,4 +1,4 @@
-# GradCAM_Binary-classifier
+# CAM_Binary-classifier
 
 CAM과 GradCAM을 활용한 이미지 분류, 객체 검출
 
