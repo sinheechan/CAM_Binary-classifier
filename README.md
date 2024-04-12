@@ -1,6 +1,10 @@
 # CAM_Binary-classifier
 
 CAM과 GradCAM을 활용한 이미지 분류, 객체 검출
+<br /><br /> 
+<img src="image/Car_Activation.image.png">
+<br /><br /> 
+<img src="image/fire_activation.image.png">
 
 <br /><br /> 
 ## Object
@@ -29,9 +33,3 @@ CAM이란 CNN이 입력으로 들어온 이미지를 분류할 때 "어떤 부�
 - keras_ModelCheckpoint
 - FastAI
 - ResNet-18
-
-<br /><br /> 
-## Result
-<img src="image/Car_Activation.image.png">
-<br /><br /> 
-<img src="image/fire_activation.image.png">
